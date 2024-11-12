@@ -12,7 +12,7 @@ Criar um modelo de Machine Learning que faça a previsão do preço do petróleo
 Criar um plano para fazer o deploy do modelo em produção;
 Gerar um MVP (Minimum Viable Product) do modelo em produção por meio do Streamlit.
 # Introdução
-# O que é o Ipea ?¶
+# O que é o Ipea ?
 O Instituto de Pesquisa Econômica Aplicada (Ipea) é uma fundação pública federal vinculada ao Ministério do Planejamento e Orçamento. As atividades de pesquisa fornecem suporte técnico e institucional para as ações governamentais a fim de formular e reformular políticas públicas e programas de desenvolvimento. O Ipea disponibiliza seus trabalhos por meio de publicações eletrônicas, impressas, e eventos.
 
 # O que é o Petróleo Brent ?
@@ -46,6 +46,7 @@ Base para Aplicação no Streamlit
 Iremos criar uma base de dados tratada para facilitar a aplicação no Streamlit.
 
 # Referências
+
 INSTITUTO DE PESQUISA ECONÔMICA APLICADA. Quem somos. Disponível em: https://www.ipea.gov.br/portal/coluna-3/institucional-sep/quem-somos. Acesso em: 01 de maio de 2024.
 
 BRASIL DE FATO. Pandemia da covid-19 gera maior crise do mercado mundial de petróleo em 30 anos. Disponível em: https://www.brasildefato.com.br/2020/04/08/pandemia-da-covid-19-gera-maior-crise-do-mercado-mundial-de-petroleo-em-30-anos. Acesso em: 02 de maio de 2024.
