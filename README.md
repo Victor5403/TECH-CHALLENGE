@@ -60,8 +60,19 @@ FILIPE, Kauã. Introdução à Feature Engineering para Previsão com Séries Te
 
 # Técnicas e Tecnologias Utilizadas
 Python
+
 Jupyter Notebook
+
 Time Series
+
 ARIMA
+
 Gradient Boosting
+
 Machine Learning
+
+# Autores
+
+Victor Ventura 
+
+Nicolas Ventura
