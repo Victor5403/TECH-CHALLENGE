@@ -23,6 +23,8 @@ Os dados utilizados neste trabalho foram obtidos a partir do site do Instituto d
 
 http://www.ipeadata.gov.br/ExibeSerie.aspx?module=m&serid=1650971490&oper=view
 
+Essa fonte garante a confiabilidade e a relevância das informações para análises econômicas aprofundadas.
+
 # Apresentação dos Dados
 Nesta seção, vamos realizar uma análise geral dos dados presentes no conjunto de dados. O objetivo é entender melhor as informações disponíveis, explorar suas características e identificar como os dados são estruturados e apresentados. Isso nos ajudará a obter uma visão mais clara sobre o conteúdo do dataset e como ele pode ser utilizado para análise posterior.
 
