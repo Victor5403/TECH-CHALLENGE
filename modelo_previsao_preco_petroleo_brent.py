@@ -45,7 +45,7 @@ O petróleo Brent, produzido no Mar do Norte, é um benchmark importante para o 
 http://www.ipeadata.gov.br/ExibeSerie.aspx?module=m&serid=1650971490&oper=view
 
 <p style='font-size: 18px; line-height: 2; text-align: justify;'>
-    Essa fonte garante a confiabilidade e a relevância das informações para análises econômicas aprofundada.
+    Essa fonte garante a confiabilidade e a relevância das informações para análises econômicas aprofundadas.
 
 # Apresentação dos Dados
 
