@@ -1,7 +1,7 @@
 # TECH-CHALLENGE - FASE 4 - APLICAÇÃO COM STREAMLIT
 # Tópicos
 O Problema
-Fomos contratados por um consultoria para analisar os dados de preço do petróleo brent. Um grande cliente do segmento pediu que a consultoria desenvolvesse um dashboard interativo e que gere insights relevantes para a tomada de decisão. Além disso, solicitaram que fosse desenvolvido um modelo de Machine Learning para fazer o forecasting do preço do petróleo.
+Fomos contratados por uma consultoria para analisar os dados de preço do petróleo Brent. Um importante cliente do setor solicitou o desenvolvimento de um dashboard interativo que forneça insights valiosos para apoiar a tomada de decisões estratégicas. Além disso, foi requisitado o desenvolvimento de um modelo de Machine Learning para realizar previsões (forecasting) do preço do petróleo, visando otimizar a gestão e os planos futuros do cliente.
 
 # Objetivo
 Nosso objetivo consiste em:
@@ -13,30 +13,30 @@ Criar um plano para fazer o deploy do modelo em produção;
 Gerar um MVP (Minimum Viable Product) do modelo em produção por meio do Streamlit.
 # Introdução
 # O que é o Ipea ?
-O Instituto de Pesquisa Econômica Aplicada (Ipea) é uma fundação pública federal vinculada ao Ministério do Planejamento e Orçamento. As atividades de pesquisa fornecem suporte técnico e institucional para as ações governamentais a fim de formular e reformular políticas públicas e programas de desenvolvimento. O Ipea disponibiliza seus trabalhos por meio de publicações eletrônicas, impressas, e eventos.
+O Instituto de Pesquisa Econômica Aplicada (Ipea) é uma fundação pública federal vinculada ao Ministério do Planejamento e Orçamento, que desempenha um papel essencial no suporte técnico e institucional às ações governamentais. Sua missão é contribuir para a formulação e aprimoramento de políticas públicas e programas de desenvolvimento por meio de pesquisas e análises detalhadas. O Ipea dissemina seu trabalho por meio de publicações eletrônicas, impressas e da realização de eventos, promovendo o acesso a informações de alta relevância para gestores, acadêmicos e o público em geral.
 
 # O que é o Petróleo Brent ?
-Produzido no Mar do Norte (Europa), Brent é uma classe de petróleo bruto que serve como benchmark para o preço internacional de diferentes tipos de petróleo. Neste caso, é valorado no chamado preço FOB (free on board), que não inclui despesa de frete e seguro no preço.
+O petróleo Brent, produzido no Mar do Norte, é um benchmark importante para o preço internacional do petróleo. Ele é avaliado pelo preço FOB (free on board), que não inclui despesas de frete e seguro. O Brent serve como referência para a precificação de diversos tipos de petróleo no mercado global.
 
 # Obtenção dos Dados
-Os dados foram obtidos no site do Instituto de Pesquisa Econômica Aplicada (Ipea) e podem ser acessados por meio do link:
+Os dados utilizados neste trabalho foram obtidos a partir do site do Instituto de Pesquisa Econômica Aplicada (Ipea). Eles podem ser acessados diretamente por meio do seguinte link:
 
 http://www.ipeadata.gov.br/ExibeSerie.aspx?module=m&serid=1650971490&oper=view
 
 # Apresentação dos Dados
-Nesta seção iremos observar de forma geral os dados presentes no dataset. Assim, teremos uma noção maior dos dados que possuímos e como eles nos são apresentados.
+Nesta seção, vamos realizar uma análise geral dos dados presentes no conjunto de dados. O objetivo é entender melhor as informações disponíveis, explorar suas características e identificar como os dados são estruturados e apresentados. Isso nos ajudará a obter uma visão mais clara sobre o conteúdo do dataset e como ele pode ser utilizado para análise posterior.
 
 # Visualização e Tratamento dos Dados
-Aqui realizaremos o tratamento dos dados, verificando a presença de dados missings, correções e eliminações de dados.
+Nesta etapa, vamos realizar o tratamento dos dados, identificando e lidando com a presença de valores ausentes (missing data). Faremos as correções necessárias e, quando apropriado, eliminaremos registros ou variáveis que possam comprometer a qualidade da análise. O objetivo é garantir que os dados estejam limpos e prontos para a modelagem ou análise subsequente.
 
 # Análise Exploratória dos Dados
-Este tópico contém a análise exploratória do comportamento dos nossos dados e das relações entre as variáveis. Realização da análise de outliers, estatísticas descritivas e qual o nosso intervalo temporal.
+Este tópico aborda a análise exploratória dos dados, com foco no comportamento das variáveis e nas relações entre elas. Inclui a identificação de outliers, a realização de estatísticas descritivas e a definição do intervalo temporal dos dados, visando entender melhor a estrutura e as características do conjunto de dados.
 
 # Análise de Séries Temporais
-Nesta seção iremos analisar nossos dados como séries temporais, realizando toda a decomposição da série e verificando sua estacionaridade por meio da regra de Dickey-Fuller.
+Nesta seção, realizaremos a análise dos dados como séries temporais, conduzindo a decomposição da série para entender seus componentes e avaliar sua estacionaridade utilizando o teste de Dickey-Fuller. Essa análise permitirá identificar tendências, sazonalidades e comportamentos que possam influenciar a modelagem e previsão da série temporal.
 
 # Construção do Modelo
-Após a análise, criaremos os modelos que queremos testas e realizaremos uma comparação entre eles a fim de verificar qual performa melhor.
+Após a análise dos dados, iremos desenvolver e treinar os modelos que serão testados. Em seguida, realizaremos uma comparação entre as diferentes abordagens para avaliar qual delas apresenta o melhor desempenho, com base em métricas de avaliação adequadas. Isso nos permitirá identificar o modelo mais eficaz para o problema em questão.
 
 Dentre os modelos estão:
 
@@ -59,7 +59,8 @@ SILVA, Jonhy. Uma breve introdução ao algoritmo de Machine Learning Gradient B
 
 FILIPE, Kauã. Introdução à Feature Engineering para Previsão com Séries Temporais. Atualizado em: 09 de outubro de 2022. Disponível em: https://medium.com/turing-talks/introdu%C3%A7%C3%A3o-%C3%A0-feature-engineering-para-previs%C3%A3o-com-s%C3%A9ries-temporais-bf8bd3d0397d#:~:text=Utilizamos%20lag%20time%20features%20quando,de%20a%C3%A7%C3%B5es%20de%20uma%20empresa. Acesso em: 04 de maio de 2024.
 
-# Técnicas e Tecnologias Utilizadas
+# Técnicas e Tecnologias Empregadas
+
 Python
 
 Jupyter Notebook
