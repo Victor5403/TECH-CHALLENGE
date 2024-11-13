@@ -75,6 +75,6 @@ Machine Learning
 
 # Autores
 
-Victor Ventura 
+Victor Ventura dos Santos
 
-Nicolas Ventura
+Nicolas Ventura dos Santos
