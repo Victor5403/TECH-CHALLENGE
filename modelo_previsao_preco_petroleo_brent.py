@@ -41,20 +41,12 @@ O petróleo Brent, produzido no Mar do Norte, é um benchmark importante para o 
 
 <p style='font-size: 18px; line-height: 2; text-align: justify;'>
     Os dados utilizados neste trabalho foram obtidos a partir do site do Instituto de Pesquisa Econômica Aplicada (Ipea). Eles podem ser acessados diretamente por meio do seguinte link:
-"""
+    
+http://www.ipeadata.gov.br/ExibeSerie.aspx?module=m&serid=1650971490&oper=view
 
-from IPython.core.display import display, HTML
+Essa fonte garante a confiabilidade e a relevância das informações para análises econômicas aprofundadas.
 
-html_code = """
-<button onclick="window.open('http://www.ipeadata.gov.br/ExibeSerie.aspx?module=m&serid=1650971490&oper=view', '_blank')"
-        style="background-color: #4CAF50; color: white; padding: 8px 16px; font-size: 12px; border: none; border-radius: 5px; cursor: pointer;">
-    Acessar Dados do Ipea
-</button>
-"""
-
-display(HTML(html_code))
-
-"""# Apresentação dos Dados
+# Apresentação dos Dados
 
 ## Importanto Bibliotecas
 """
