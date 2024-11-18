@@ -49,17 +49,17 @@ Iremos criar uma base de dados tratada para facilitar a aplicação no Streamlit
 
 # Referências
 
-INSTITUTO DE PESQUISA ECONÔMICA APLICADA. Quem somos. Disponível em: https://www.ipea.gov.br/portal/coluna-3/institucional-sep/quem-somos. Acesso em: 01 de maio de 2024.
+INSTITUTO DE PESQUISA ECONÔMICA APLICADA. Quem somos. Disponível em: https://www.ipea.gov.br/portal/coluna-3/institucional-sep/quem-somos. Acesso em: 01 de Outubro de 2024.
 
 BRASIL DE FATO. Pandemia da covid-19 gera maior crise do mercado mundial de petróleo em 30 anos. Disponível em: https://www.brasildefato.com.br/2020/04/08/pandemia-da-covid-19-gera-maior-crise-do-mercado-mundial-de-petroleo-em-30-anos. Acesso em: 02 de maio de 2024.
 
-SEGOVIA SPADINI, Allan. "Séries temporais e suas aplicações": Atualizado em 22/01/2021. Disponível em: https://www.alura.com.br/artigos/series-temporais-e-suas-aplicacoes. Acesso em: 15 de janeiro de 2024.
+SEGOVIA SPADINI, Allan. "Séries temporais e suas aplicações": Atualizado em 22/01/2021. Disponível em: https://www.alura.com.br/artigos/series-temporais-e-suas-aplicacoes. Acesso em: 15 de Outubro de 2024.
 
-FERNANDES CUNHA, Ana Raquel. "Predicting stock values with machine learning and deep learning algorithms". Disponível em: https://medium.com/@anaraquel.fiap/predicting-stock-values-with-machine-learning-and-deep-learning-algorithms-5eb028892888. Acesso em: 24 de janeiro de 2024.
+FERNANDES CUNHA, Ana Raquel. "Predicting stock values with machine learning and deep learning algorithms". Disponível em: https://medium.com/@anaraquel.fiap/predicting-stock-values-with-machine-learning-and-deep-learning-algorithms-5eb028892888. Acesso em: 24 de Outubro de 2024.
 
-SILVA, Jonhy. Uma breve introdução ao algoritmo de Machine Learning Gradient Boosting utilizando a biblioteca Scikit-Learn. Atualizado em: 22 de junho de 2020. Disponível em: https://medium.com/equals-lab/uma-breve-introdu%C3%A7%C3%A3o-ao-algoritmo-de-machine-learning-gradient-boosting-utilizando-a-biblioteca-311285783099. Acesso em: 04 de maio de 2024.
+SILVA, Jonhy. Uma breve introdução ao algoritmo de Machine Learning Gradient Boosting utilizando a biblioteca Scikit-Learn. Atualizado em: 22 de junho de 2020. Disponível em: https://medium.com/equals-lab/uma-breve-introdu%C3%A7%C3%A3o-ao-algoritmo-de-machine-learning-gradient-boosting-utilizando-a-biblioteca-311285783099. Acesso em: 04 de Outubro de 2024.
 
-FILIPE, Kauã. Introdução à Feature Engineering para Previsão com Séries Temporais. Atualizado em: 09 de outubro de 2022. Disponível em: https://medium.com/turing-talks/introdu%C3%A7%C3%A3o-%C3%A0-feature-engineering-para-previs%C3%A3o-com-s%C3%A9ries-temporais-bf8bd3d0397d#:~:text=Utilizamos%20lag%20time%20features%20quando,de%20a%C3%A7%C3%B5es%20de%20uma%20empresa. Acesso em: 04 de maio de 2024.
+FILIPE, Kauã. Introdução à Feature Engineering para Previsão com Séries Temporais. Atualizado em: 09 de outubro de 2022. Disponível em: https://medium.com/turing-talks/introdu%C3%A7%C3%A3o-%C3%A0-feature-engineering-para-previs%C3%A3o-com-s%C3%A9ries-temporais-bf8bd3d0397d#:~:text=Utilizamos%20lag%20time%20features%20quando,de%20a%C3%A7%C3%B5es%20de%20uma%20empresa. Acesso em: 04 de Outubro de 2024.
 
 # Técnicas e Tecnologias Empregadas
 
