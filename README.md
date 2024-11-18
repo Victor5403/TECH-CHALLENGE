@@ -51,7 +51,7 @@ Iremos criar uma base de dados tratada para facilitar a aplicação no Streamlit
 
 INSTITUTO DE PESQUISA ECONÔMICA APLICADA. Quem somos. Disponível em: https://www.ipea.gov.br/portal/coluna-3/institucional-sep/quem-somos. Acesso em: 01 de Outubro de 2024.
 
-BRASIL DE FATO. Pandemia da covid-19 gera maior crise do mercado mundial de petróleo em 30 anos. Disponível em: https://www.brasildefato.com.br/2020/04/08/pandemia-da-covid-19-gera-maior-crise-do-mercado-mundial-de-petroleo-em-30-anos. Acesso em: 02 de maio de 2024.
+BRASIL DE FATO. Pandemia da covid-19 gera maior crise do mercado mundial de petróleo em 30 anos. Disponível em: https://www.brasildefato.com.br/2020/04/08/pandemia-da-covid-19-gera-maior-crise-do-mercado-mundial-de-petroleo-em-30-anos. Acesso em: 02 de Outubro de 2024.
 
 SEGOVIA SPADINI, Allan. "Séries temporais e suas aplicações": Atualizado em 22/01/2021. Disponível em: https://www.alura.com.br/artigos/series-temporais-e-suas-aplicacoes. Acesso em: 15 de Outubro de 2024.
 
